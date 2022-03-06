@@ -36,4 +36,6 @@ Splitting the Main training data into 80% train and 20% test data for model buil
   + n_estimators = 300,max_depth = 10 is used to buid the model.
 * Finally, the metrics observed from both are 
 
+![github](https://user-images.githubusercontent.com/50799650/156925492-9e23234c-cdf2-4943-8b8f-d5922efe8a22.JPG)
+
 * But on the final test data provided to score the model XGboost gave the highest R2-score.Hence final submission.csv is submitted accordingly.
